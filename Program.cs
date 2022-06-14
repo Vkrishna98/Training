@@ -23,7 +23,7 @@ namespace Training
             }
             if (OrginalNum==temp)
             {
-                Console.WriteLine("Palindrome");
+                Console.WriteLine("#### Palindrome ####");
             }
             else
             {
