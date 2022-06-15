@@ -10,6 +10,8 @@ namespace Training
     {
         static void Main(string[] args)
         {
+
+            //just comment
             Console.Write("Enter a Integer :");
             int n = Convert.ToInt32(Console.ReadLine());
             int r = 0, temp = 0;
